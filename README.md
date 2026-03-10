@@ -17,8 +17,3 @@ A Python bot to manage your Proxmox VMs and Containers directly from Discord. No
 * `.env` - (Hidden) API keys and secrets.
 * `.gitignore` - Prevents secrets and venv from being pushed to GitHub.
 * `requirements.txt` - List of necessary Python libraries.
-
----
-
-*README written by AI*
-
