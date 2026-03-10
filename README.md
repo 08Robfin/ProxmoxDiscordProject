@@ -8,7 +8,7 @@ A Python bot to manage your Proxmox VMs and Containers directly from Discord. No
 3. **Start:** Run `python3 bot.py`
 
 ## 📋 Commands (More may be added later)
-* `/sync` - Adds channels for new VMs and deletes channels for old ones.
+* `/sync` - Manually force a sync between Proxmox and the discord bot. (The system will usually sync automatically every ~30 seconds.)
 * `/start` - Powers on the VM and updates channel to 🟢.
 * `/stop` - Powers off the VM and updates channel to 🔴.
 
@@ -21,3 +21,4 @@ A Python bot to manage your Proxmox VMs and Containers directly from Discord. No
 ---
 
 *README written by AI*
+
